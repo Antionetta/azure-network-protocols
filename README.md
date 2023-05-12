@@ -56,7 +56,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/J0YnD3J.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/q11NwQc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h3>Observe SSH Traffic</h3>
